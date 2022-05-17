@@ -6,6 +6,8 @@
 - 📫 How to reach me: [@francescotodino](https://www.instagram.com/francescotodino/)
 - ⚡ Fun fact: Most of my code is private 🙈
 
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational)
+
 ##  Developers only ⚠️
 
 ### Frameworks 
