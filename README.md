@@ -1,12 +1,10 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on some secret stuffs
-- 🏛 I’m currently studying for my master's degree in Florence
+- 🏛 I’m studying for my master's degree in Florence
 - 💬 I'm looking to collaborate on something different
 - 📫 How to reach me: [@francescotodino](https://www.instagram.com/francescotodino/)
 - ⚡ Fun fact: Most of my code is private 🙈
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark&quoteCategory=motivational)
 
 ##  Developers only ⚠️
 
